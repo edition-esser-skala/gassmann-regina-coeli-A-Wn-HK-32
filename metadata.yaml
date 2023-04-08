@@ -1,0 +1,24 @@
+composer:
+  last: Gassmann
+  first: Florian Leopold
+title: Regina cœli
+genre: antiphon
+scoring: S, A, T, B (coro), 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: HK.32/I
+    rism: 600113169
+    url: https://data.onb.ac.at/rec/AC14268976
+    license: public domain
+    principal: true
+    notes: full score
+  B2:
+    siglum: A-Wn
+    shelfmark: HK.32/II
+    rism: 600113180
+    url: https://data.onb.ac.at/rec/AC14268977
+    license: public domain
+    notes: parts for S, A, T, B, trb 1, trb 2, vl 1, vl 2, vlc, vlne, fag, org, and maestro di cappella
+imslp:
