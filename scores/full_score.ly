@@ -10,7 +10,7 @@
   top-markup-spacing.minimum-distance = #0
   markup-system-spacing.basic-distance = #10
   markup-system-spacing.minimum-distance = #10
-  % systems-per-page = #2
+  systems-per-page = #2
 }
 
 \book {
@@ -67,8 +67,8 @@
         >>
         \new FiguredBass { \ReginaBassFigures }
       >>
-      \layout { }
-      \midi { \tempo 4 = 90 }
+      \layout { \override Score.SpacingSpanner.common-shortest-duration = #(ly:make-moment 1/16) }
+      \midi { \tempo 4 = 65 }
     }
   }
 }
